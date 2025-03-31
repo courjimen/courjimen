@@ -17,9 +17,14 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=courjimen&hide_progress=false&title_color=B67233&bg_color=000000&text_color=ffffff&icon_color=c590eb&hide_border=true&langs_count=4"
+  srcset="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&title_color=B67233&bg_color=000000&text_color=ffffff&icon_color=FFD700&hide_border=true&langs_count=8"
   media="(prefers-color-scheme: dark)"
 />
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&bg_color=ffd6e6&text_color=B67233&title_color=B67233&icon_color=89CEEB&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true" />
 </picture>
 <!--
 **courjimen/courjimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
