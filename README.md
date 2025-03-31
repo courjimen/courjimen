@@ -9,16 +9,18 @@
   <a href="https://linkedin.com/in/coureyjimenez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/connect_on-LinkedIn-yellow" alt="LinkedIn Profile" /></a>
 <br/>
 <a><img src="https://img.shields.io/badge/proficient-React-green" alt="React badge" /></a>
-<a><img src="https://img.shields.io/badge/proficient_RESTful-API-blueviolet" alt="RESTful API badge" /></a>
+<a><img src="https://img.shields.io/badge/proficient-RESTful_API-blueviolet" alt="RESTful API badge" /></a>
 <a><img src="http://img.shields.io/badge/advanced-HTML-pink" alt="HTML badge"/></a>
-<a><img src="https://img.shields.io/badge/advanced-CSS-fuscia" alt="CSS badge" /></a>
-<a><img src="https://img.shields.io/badge/proficient-PostgreSQL-yellow alt="PostgresSQL badge"/></a> 
+<a><img src="https://img.shields.io/badge/advanced-CSS-purple" alt="CSS badge" /></a>
+<a><img src="https://img.shields.io/badge/proficient-PostgreSQL-blue alt="PostgresSQL badge"/></a> 
 </p>
 
+<picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=courjimen&hide_progress=false&title_color=B67233&bg_color=000000&text_color=ffffff&icon_color=c590eb&hide_border=true&langs_count=4"
   media="(prefers-color-scheme: dark)"
 />
+</picture>
 <!--
 **courjimen/courjimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
