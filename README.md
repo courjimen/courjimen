@@ -11,7 +11,7 @@
 <a><img src="https://img.shields.io/badge/proficient-React-green" alt="React badge" /></a>
 <a><img src="https://img.shields.io/badge/proficient-RESTful_API-blueviolet" alt="RESTful API badge" /></a>
 <a><img src="http://img.shields.io/badge/advanced-HTML-pink" alt="HTML badge"/></a>
-<a><img src="https://img.shields.io/badge/advanced-CSS-61DAFB?style=flat" alt="CSS badge" /></a>
+<a><img src="https://img.shields.io/badge/advanced-CSS-orange.svg?style=flat" alt="CSS badge" /></a>
 <a><img src="https://img.shields.io/badge/proficient-PostgreSQL-blue" alt="PostgresSQL badge"/></a> 
 </p>
 
