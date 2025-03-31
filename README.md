@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://courcollabs.com/"><img alt="Copywriting portfolio page" src="https://img.shields.io/badge/my%20corporate-portfolio-61DAFB?style=flat" /></a>
   <a href="https://github.com/courjimen" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/built_with-love-red" alt="built with love badge" /></a>
-  <a href="https://linkedin.com/in/coureyjimenez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/connect-on-LinkedIn-yellow" alt="built by developers badge" /></a>
+  <a href="linkedin.com/in/coureyjimenez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/connect-on-LinkedIn-yellow" alt="LinkedIn Profile" /></a>
   
 <!--   <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/open-source-green" alt="open source badge" /></a>
 <br/>
