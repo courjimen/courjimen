@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/coureyjimenez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/connect_on-LinkedIn-yellow" alt="LinkedIn Profile" /></a>
 <br/>
 <a><img src="https://img.shields.io/badge/proficient-React-green" alt="React badge" /></a>
-<a><img src="https://img.shields.io/badge/proficient-RESTful_API-blueviolet" alt="RESTful API badge" /></a>
+<a><img src="https://img.shields.io/badge/proficient-REST_API-blueviolet" alt="RESTful API badge" /></a>
 <a><img src="http://img.shields.io/badge/advanced-HTML-pink" alt="HTML badge"/></a>
 <a><img src="https://img.shields.io/badge/advanced-CSS-orange.svg?style=flat" alt="CSS badge" /></a>
 <a><img src="https://img.shields.io/badge/proficient-PostgreSQL-blue" alt="PostgresSQL badge"/></a> 
