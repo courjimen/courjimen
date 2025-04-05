@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://courcollabs.com/" target="_blank"><img alt="Copywriting portfolio page" src="https://img.shields.io/badge/my%20corporate-portfolio-61DAFB?style=flat" /></a>
+  <a href="https://courcollabs.com/" target="_blank" rel="noopener"><img alt="Copywriting portfolio page" src="https://img.shields.io/badge/my%20corporate-portfolio-61DAFB?style=flat" /></a>
   <a href="https://github.com/courjimen" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/built_with-love-red" alt="built with love badge" /></a>
   <a href="https://linkedin.com/in/coureyjimenez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/connect_on-LinkedIn-yellow" alt="LinkedIn Profile" /></a>
 <br/>
