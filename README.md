@@ -1,6 +1,7 @@
 ## About me ✨
 <p align="center">
-  <a href="https://courcollabs.com/"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Courey!+Nice+to+meet+you&font=Dancing+Script&size=40&center=true&width=550&height=70&color=orange"/></a>
+<a href="https://courcollabs.com/"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Courey!+Nice+to+meet+you&font=Dancing+Script&size=40&center=true&width=550&height=70&color=%23FFA500"/></a>
+
 </p>
 
 <p align="center">
