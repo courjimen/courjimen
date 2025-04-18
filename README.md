@@ -19,7 +19,7 @@
 <div align="center">
 <picture align="center">
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&title_color=B67233&bg_color=000000&text_color=ffffff&icon_color=FFD700&hide_border=true&langs_count=8"
+  srcset="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&title_color=B67233&bg_color=000000&text_color=FF8C00&icon_color=FFD700&hide_border=true&langs_count=8"
   media="(prefers-color-scheme: dark)"
 />
 <source
