@@ -23,7 +23,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&bg_color=#856404&text_color=B67233&title_color=B67233&icon_color=89CEEB&hide_border=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&bg_color=#856404&text_color=orange&title_color=B67233&icon_color=89CEEB&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true" />
