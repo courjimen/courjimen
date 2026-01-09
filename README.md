@@ -17,17 +17,13 @@
 </p>
 
 <div align="center">
-<picture align="center">
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&title_color=B67233&bg_color=000000&text_color=FF8C00&icon_color=FFD700&hide_border=true&langs_count=8"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&title_color=FF8C00&bg_color=000000&text_color=FF8C00&icon_color=FFD700&hide_border=true&langs_count=8"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&rank_icon=github" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&title_color=B67233&bg_color=000000&text_color=FF8C00&icon_color=FFD700&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=courjimen&show_icons=true&title_color=FF8C00&bg_color=ffffff&text_color=000000&icon_color=FFD700&hide_border=false" />
+  </picture>
 </div>
 
 Transitioning from a background in copywriting, I'm now immersed in the world of iOS development. I value growth and enjoy learning new languages. I have experience with full-stack web development and data engineering. 
