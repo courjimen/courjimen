@@ -30,6 +30,6 @@
 </picture>
 </div>
 
-Transitioning from a background in copywriting, I'm now immersed in the world of full-stack web development! 
+Transitioning from a background in copywriting, I'm now immersed in the world of iOS development. I value growth and enjoy learning new languages. I have experience with full-stack web development and data engineering. 
 
-My goal is to build intuitive and effective web applications. My previous experience provides a unique perspective on user engagement, which I bring to every project.
+My goal is to build intuitive and effective applications that are accessible to everyone. My previous experience provides a unique perspective on user experience, which I put to the forefront of every project.
